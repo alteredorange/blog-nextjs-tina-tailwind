@@ -7323,10 +7323,10 @@ react-beautiful-dnd@^11.0.5:
     tiny-invariant "^1.0.4"
     use-memo-one "^1.1.0"
 
-react-collapsible@2.8.0:
-  version "2.8.0"
-  resolved "https://registry.yarnpkg.com/react-collapsible/-/react-collapsible-2.8.0.tgz#dce2ff7703d4456c5bb70cc1b53d3f80acf76526"
-  integrity sha512-QTxGyp4iL8N57FcU1RGt4wD7vqOTRYAHNukxtSeVMkZ+/d1WNWXRIakzhYhC/5TDERihPdp1IvKIJlrLLPyQ/A==
+react-collapsible@2.8.1:
+  version "2.8.1"
+  resolved "https://registry.yarnpkg.com/react-collapsible/-/react-collapsible-2.8.1.tgz#60f47a12203bb8477d4c0e221b109fa839fed66c"
+  integrity sha512-ykV+EpCBYC6UoOsZLtBxrs/kFVgJc2gFMU1/SS2JLG+LrMHSOERpWSG+fexyFYk44hdfJRmc/If+HlSjXcbCiw==
 
 react-color@^2.17.3:
   version "2.18.1"
