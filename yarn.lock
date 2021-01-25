@@ -7355,6 +7355,11 @@ react-dismissible@^1.2.0:
   resolved "https://registry.yarnpkg.com/react-dismissible/-/react-dismissible-1.2.0.tgz#004d9dcebd6380ad97c604496a2f709a9bedd147"
   integrity sha512-y9Qgj16BC+tVLSToivgJXCu7ZZFWd6U9jjBq++I5Uvhx8MKT1l7vCIiq6Ilp8+U0LD5Vz1bhDAWcQg+V7oolUg==
 
+react-dismissible@^1.3.0:
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/react-dismissible/-/react-dismissible-1.3.0.tgz#d48bffe99b64d444f91ccc2fa428794dfbcf6530"
+  integrity sha512-KqShOnw84Ft2Hx/O5KrwTDY1bXmICcJ8HlRIqSdn6j4Lg3OLVrETBiPgGUB4CRNRquVihcd5JmgDa0WUVdBG9g==
+
 react-dom@17.0.1:
   version "17.0.1"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-17.0.1.tgz#1de2560474ec9f0e334285662ede52dbc5426fc6"
@@ -7480,12 +7485,12 @@ react-tinacms-github@0.5.0:
     js-cookie "^2.2.1"
     next-tinacms-markdown "^0.2.21"
 
-react-tinacms-inline@0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/react-tinacms-inline/-/react-tinacms-inline-0.7.0.tgz#de72c6626f86b345a0836f39d61c5cb991506c90"
-  integrity sha512-MCIFpQcyOK5QKDWCgzdLDpC4KXg80F42GptychDFjTkca/eM/EYhSrBlXEq/iWh4EPbSllMtrz03daXCNyEPSQ==
+react-tinacms-inline@0.36.0:
+  version "0.36.0"
+  resolved "https://registry.yarnpkg.com/react-tinacms-inline/-/react-tinacms-inline-0.36.0.tgz#aaa11ed11956718c43e592eeb0bb1d15830f6d06"
+  integrity sha512-hfjUdsFbXEkhf2YBOLR31tqQDEivZWjRFxNLrG3RhC7rL49d5ZTKkgRTI6m60jaOTMDhjVTzA0qtV078k47Yfg==
   dependencies:
-    react-dismissible "^1.2.0"
+    react-dismissible "^1.3.0"
     react-textarea-autosize ">=7.1"
 
 react@17.0.1:
